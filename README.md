@@ -1,0 +1,1 @@
+Hello, la console c'est vraiment super!
